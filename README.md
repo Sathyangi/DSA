@@ -28,4 +28,15 @@ using different approaches as part of academic submissions.
 - Dequeue: O(n)
 - File: StackQueueEnqueueFriendly.java
 
+## Submission II
+
+### 1. StackQueue – Dequeue Friendly 
+Queue implemented using two Stacks 
+• Enqueue: O(n) 
+• Dequeue: O(1) 
+• Concept: 
+o Always keep the front element on top of stack1 
+o While enqueuing, move elements between stacks to maintain order
+
+
 Each file contains a `main()` method with sample test cases.
