@@ -38,5 +38,10 @@ Queue implemented using two Stacks
 o Always keep the front element on top of stack1 
 o While enqueuing, move elements between stacks to maintain order
 
+### 2. Array Circular Queue 
+Queue implemented using a fixed-size circular array 
+• Enqueue: O(1) 
+• Dequeue: O(1) 
+• Advantage: Efficient memory usage (no shifting)
 
 Each file contains a `main()` method with sample test cases.
