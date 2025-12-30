@@ -49,4 +49,10 @@ Linked list where each node points to the next node
 - Insert at end: O(n) 
 - Display: O(n)
 
+### 4. Doubly Linked List 
+Linked list with previous and next pointers 
+- Forward traversal: O(n) 
+- Backward traversal: O(n) 
+- Advantage: Easy reverse traversal
+
 Each file contains a `main()` method with sample test cases.
