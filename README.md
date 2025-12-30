@@ -44,4 +44,9 @@ Queue implemented using a fixed-size circular array
 - Dequeue: O(1) 
 - Advantage: Efficient memory usage (no shifting)
 
+### 3. Singly Linked List 
+Linked list where each node points to the next node 
+- Insert at end: O(n) 
+- Display: O(n)
+
 Each file contains a `main()` method with sample test cases.
