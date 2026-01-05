@@ -64,6 +64,23 @@ Linked list with previous and next pointers
 ### 1. Circular Doubly Linked List  
    Circular linked list with previous and next pointers  
   - Traversal: O(n)  
-  - File: CircularDoublyLinkedList.java  
+  - File: CircularDoublyLinkedList.java
+
+### 2. Linked List Stack  
+   Stack implemented using linked list  
+- Push: O(1)  
+- Pop: O(1)  
+- File: LinkedListStack.java  
+
+### 3. Linked List FIFO Queue  
+   Queue implemented using linked list  
+ -  Enqueue: O(1)  
+ -  Dequeue: O(1)  
+ -  File: LinkedListFIFOQueue.java  
+
+### 4. Rabbit Problem  
+   Fibonacci-based population growth problem  
+  - File: RabbitProblem.java  
+   
 
 Each file contains a `main()` method with sample test cases.
