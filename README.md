@@ -37,22 +37,33 @@ Queue implemented using two Stacks
 - Concept: 
 o Always keep the front element on top of stack1 
 o While enqueuing, move elements between stacks to maintain order
+- File:  StackQueueDequeueFriendly.java
 
 ### 2. Array Circular Queue 
 Queue implemented using a fixed-size circular array 
 - Enqueue: O(1) 
 - Dequeue: O(1) 
 - Advantage: Efficient memory usage (no shifting)
-
+- File:  ArrayCircularQueue.java
+  
 ### 3. Singly Linked List 
 Linked list where each node points to the next node 
 - Insert at end: O(n) 
 - Display: O(n)
-
+- File:  SinglyLinkedList.java
+  
 ### 4. Doubly Linked List 
 Linked list with previous and next pointers 
 - Forward traversal: O(n) 
 - Backward traversal: O(n) 
 - Advantage: Easy reverse traversal
+- File:  DoublyLinkedList.java
+  
+## Submission III
+
+### 1. Circular Doubly Linked List  
+   Circular linked list with previous and next pointers  
+  - Traversal: O(n)  
+  - File: CircularDoublyLinkedList.java  
 
 Each file contains a `main()` method with sample test cases.
