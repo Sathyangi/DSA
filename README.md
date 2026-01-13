@@ -79,8 +79,47 @@ Linked list with previous and next pointers
  -  File: LinkedListFIFOQueue.java  
 
 ### 4. Rabbit Problem  
-   Fibonacci-based population growth problem  
-  - File: RabbitProblem.java  
-   
+   Fibonacci-based population growth problem 
+   - Approach: Recursion
+   - File: RabbitProblem.java
 
+### Submission IV
+
+### 1. Tower of Hanoi
+
+Recursive algorithm to move all disks from source rod to destination rod using an auxiliary rod, following the rules of the Tower of Hanoi problem.
+- Time Complexity: O(2ⁿ)
+- Approach: Recursion
+File: TowerOfHanoi.java
+
+### 2. Bubble Sort Algorithm
+
+A simple comparison-based sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order.
+- Time Complexity:
+- Best Case: O(n)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Approach: Iterative
+File: BubbleSort.java
+
+### 3. Optimized Bubble Sort Algorithm
+
+An improved version of Bubble Sort that stops early if no swaps occur in a pass, reducing unnecessary iterations.
+- Time Complexity:
+- Best Case: O(n)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Approach: Iterative with early termination
+File: OptimizedBubbleSort.java
+
+### 4. Insertion Sort Algorithm
+
+A comparison-based sorting algorithm that builds the sorted array one element at a time by inserting elements into their correct position.
+- Time Complexity:
+- Best Case: O(n)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Approach: Iterative
+File: InsertionSort.java
+   
 Each file contains a `main()` method with sample test cases.
