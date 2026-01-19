@@ -121,5 +121,51 @@ A comparison-based sorting algorithm that builds the sorted array one element at
 - Worst Case: O(n²)
 - Approach: Iterative
 File: InsertionSort.java
+
+### Submission V
+
+### 1. Optimized Insertion Sort Algorithm
+
+A comparison-based sorting algorithm that builds the sorted array one element at a time by inserting elements into their correct position with reduced unnecessary shifts.
+
+- Time Complexity:
+- Best Case: O(n)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Approach: Iterative
+File: OptimizedInsertionSort.java
+
+### 2. Selection Sort Algorithm
+
+A comparison-based sorting algorithm that repeatedly selects the minimum element from the unsorted part of the array and places it at the beginning.
+
+- Time Complexity:
+- Best Case: O(n²)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Approach: Iterative
+- File: SelectionSort.java
+
+### 3. Merge Sort Algorithm
+
+A divide-and-conquer sorting algorithm that divides the array into smaller subarrays, sorts them recursively, and merges them to produce a sorted array.
+
+- Time Complexity:
+- Best Case: O(n log n)
+- Average Case: O(n log n)
+- Worst Case: O(n log n)
+- Approach: Recursive
+File: MergeSort.java
+
+### 4. Quick Sort Algorithm
+
+A divide-and-conquer sorting algorithm that selects a pivot element and partitions the array such that elements smaller than the pivot are placed on the left and larger elements on the right.
+
+- Time Complexity:
+- Best Case: O(n log n)
+- Average Case: O(n log n)
+- Worst Case: O(n²)
+- Approach: Recursive
+File: QuickSort.java
    
 Each file contains a `main()` method with sample test cases.
