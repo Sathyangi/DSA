@@ -90,7 +90,7 @@ Linked list with previous and next pointers
 Recursive algorithm to move all disks from source rod to destination rod using an auxiliary rod, following the rules of the Tower of Hanoi problem.
 - Time Complexity: O(2ⁿ)
 - Approach: Recursion
-File: TowerOfHanoi.java
+- File: TowerOfHanoi.java
 
 ### 2. Bubble Sort Algorithm
 
@@ -100,7 +100,7 @@ A simple comparison-based sorting algorithm that repeatedly swaps adjacent eleme
 - Average Case: O(n²)
 - Worst Case: O(n²)
 - Approach: Iterative
-File: BubbleSort.java
+- File: BubbleSort.java
 
 ### 3. Optimized Bubble Sort Algorithm
 
@@ -110,7 +110,7 @@ An improved version of Bubble Sort that stops early if no swaps occur in a pass,
 - Average Case: O(n²)
 - Worst Case: O(n²)
 - Approach: Iterative with early termination
-File: OptimizedBubbleSort.java
+- File: OptimizedBubbleSort.java
 
 ### 4. Insertion Sort Algorithm
 
@@ -120,7 +120,7 @@ A comparison-based sorting algorithm that builds the sorted array one element at
 - Average Case: O(n²)
 - Worst Case: O(n²)
 - Approach: Iterative
-File: InsertionSort.java
+- File: InsertionSort.java
 
 ### Submission V
 
@@ -133,7 +133,7 @@ A comparison-based sorting algorithm that builds the sorted array one element at
 - Average Case: O(n²)
 - Worst Case: O(n²)
 - Approach: Iterative
-File: OptimizedInsertionSort.java
+- File: OptimizedInsertionSort.java
 
 ### 2. Selection Sort Algorithm
 
@@ -155,7 +155,7 @@ A divide-and-conquer sorting algorithm that divides the array into smaller subar
 - Average Case: O(n log n)
 - Worst Case: O(n log n)
 - Approach: Recursive
-File: MergeSort.java
+- File: MergeSort.java
 
 ### 4. Quick Sort Algorithm
 
@@ -166,7 +166,7 @@ A divide-and-conquer sorting algorithm that selects a pivot element and partitio
 - Average Case: O(n log n)
 - Worst Case: O(n²)
 - Approach: Recursive
-File: QuickSort.java
+- File: QuickSort.java
 
 ### Submission VI
 
@@ -179,7 +179,7 @@ An improved version of Quick Sort that uses a better pivot selection strategy (M
 - Average Case: O(n log n)
 - Worst Case: O(n²)
 - Approach: Recursive with optimized pivot selection
- File: OptimizedQuickSort.java
+- File: OptimizedQuickSort.java
 
 ### 2.Binary Search Tree (BST)
 
@@ -190,7 +190,7 @@ A hierarchical data structure in which each node has at most two children, and f
 - Average Case: O(log n)
 - Worst Case: O(n)
 - Approach: Recursive
- File: BinarySearchTree.java
+- File: BinarySearchTree.java
 
 ### 3.AVL Tree
 
@@ -201,7 +201,7 @@ A self-balancing Binary Search Tree in which the height difference between left 
 -  Average Case: O(log n)
 - Worst Case: O(log n)
 - Approach: Recursive with rotations
- File: AVLTree.java
+- File: AVLTree.java
 
    
 Each file contains a `main()` method with sample test cases.
