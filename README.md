@@ -179,7 +179,7 @@ An improved version of Quick Sort that uses a better pivot selection strategy (M
 - Average Case: O(n log n)
 - Worst Case: O(n²)
 - Approach: Recursive with optimized pivot selection
-File: OptimizedQuickSort.java
+ File: OptimizedQuickSort.java
 
 ### 2.Binary Search Tree (BST)
 
@@ -190,7 +190,7 @@ A hierarchical data structure in which each node has at most two children, and f
 - Average Case: O(log n)
 - Worst Case: O(n)
 - Approach: Recursive
-File: BinarySearchTree.java
+ File: BinarySearchTree.java
 
 ### 3.AVL Tree
 
@@ -201,7 +201,7 @@ A self-balancing Binary Search Tree in which the height difference between left 
 -  Average Case: O(log n)
 - Worst Case: O(log n)
 - Approach: Recursive with rotations
-- File: AVLTree.java
+ File: AVLTree.java
 
    
 Each file contains a `main()` method with sample test cases.
