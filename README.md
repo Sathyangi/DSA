@@ -167,5 +167,41 @@ A divide-and-conquer sorting algorithm that selects a pivot element and partitio
 - Worst Case: O(n²)
 - Approach: Recursive
 File: QuickSort.java
+
+### Submission VI
+
+### 1.Optimized Quick Sort Algorithm
+
+An improved version of Quick Sort that uses a better pivot selection strategy (Median of Three) to reduce the chances of worst-case performance and improve average efficiency.
+
+- Time Complexity:
+- Best Case: O(n log n)
+- Average Case: O(n log n)
+- Worst Case: O(n²)
+- Approach: Recursive with optimized pivot selection
+File: OptimizedQuickSort.java
+
+### 2.Binary Search Tree (BST)
+
+A hierarchical data structure in which each node has at most two children, and for every node, all elements in the left subtree are smaller and those in the right subtree are larger. Supports efficient insertion, deletion, and searching operations.
+
+- Time Complexity:
+- Best Case: O(log n)
+- Average Case: O(log n)
+- Worst Case: O(n)
+- Approach: Recursive
+File: BinarySearchTree.java
+
+### 3.AVL Tree
+
+A self-balancing Binary Search Tree in which the height difference between left and right subtrees is maintained within ±1 using rotations. This ensures balanced structure and guarantees logarithmic time complexity for operations.
+
+- Time Complexity:
+- Best Case: O(log n)
+-  Average Case: O(log n)
+- Worst Case: O(log n)
+- Approach: Recursive with rotations
+- File: AVLTree.java
+
    
 Each file contains a `main()` method with sample test cases.
